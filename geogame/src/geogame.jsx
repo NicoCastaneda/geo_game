@@ -52,7 +52,7 @@ function GeoGame() {
   
 
   const countryStyle = {
-    fillColor: '#ddd',
+    fillColor: '#b3d3b8',
     weight: 1,
     color: '#333',
     fillOpacity: 1,
