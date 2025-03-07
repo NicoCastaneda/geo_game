@@ -50,7 +50,6 @@ function GeoGame() {
       }
     };
   
-  //dd
 
   const countryStyle = {
     fillColor: '#ddd',
